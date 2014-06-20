@@ -1,0 +1,7 @@
+{
+	"host":"162.243.30.119",
+	"port":"1216",
+	"user":"root",
+	"password":"root123",
+	"database":"mpesa"
+}

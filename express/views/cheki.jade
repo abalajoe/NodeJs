@@ -1,0 +1,28 @@
+extend layout
+block content
+  table
+    thead
+      tr
+        th ID
+        th TRANSACTION TYPE
+        th TRANSACTION RESULT
+        th TRANSACTION ID
+        th ENTITY
+        th ENTITY NUMBER
+        th AMOUNT
+        th DATE
+        th TIME
+        th BALANCE
+    tbody
+      - each user in users
+        tr
+          td= user.id
+          td= user.transactionType
+          td= user.transactionResult
+          td= user.transactionId
+          td= user.entity
+          td= user.entityNumber
+          td= user.amount
+          td= user.date
+          td= user.time
+          td= user.balance
