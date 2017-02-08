@@ -1,6 +1,6 @@
 # chekimatumizi
 
-A Android library designed to to monitor your mpesa transactions.
+An Android library designed to to monitor your mpesa transactions.
 
 ## Usage
 
