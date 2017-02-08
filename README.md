@@ -1,6 +1,6 @@
 # express
 
-NODEjs Express framework
+NodeJS Express framework
 
 ## Usage
 
